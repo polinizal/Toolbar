@@ -27,3 +27,11 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+
+.navbar {
+  top: 0;
+  height: 20px;
+  width: 100%;
+  position: fixed;
+  color: aquamarine;
+}
